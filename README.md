@@ -7,7 +7,7 @@ This project is a simple, beautiful user interface to demonstrate an AI Calling 
 Here is a preview of the user interface.
 
 **Main View:**
-![AI Calling Agent UI](./assests/AI%20Calling%20Agent%20UI%201.png)
+![AI Calling Agent UI](./assests/UI1.png)
 
 **Chat Window Open:**
 ![AI Calling Agent UI with Chat](./assests/UI2.png)
