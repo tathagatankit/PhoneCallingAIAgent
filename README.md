@@ -2,9 +2,15 @@
 
 This project is a simple, beautiful user interface to demonstrate an AI Calling Agent. The UI is designed to be clean and modern, with a gradient background and a clear feature list.
 
-## Screenshot
+## Screenshots
 
-![AI Calling Agent UI](./assets/AI%20Calling%20Agent%20UI%201.png)
+Here is a preview of the user interface.
+
+**Main View:**
+![AI Calling Agent UI](./assests/AI%20Calling%20Agent%20UI%201.png)
+
+**Chat Window Open:**
+![AI Calling Agent UI with Chat](./assests/UI2.png)
 
 ## Features
 
